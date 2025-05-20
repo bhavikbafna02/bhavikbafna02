@@ -3,8 +3,8 @@ A passionate developer, tech enthusiast, and budding entrepreneur from India �
 
 ## 🧑‍💻 About Me
 - 🎓 I'm a 3rd-year engineering student at RV College of Engineering
-- 🧠 I love exploring AI, ML, Web3 (Solana & Ethereum), and building tech products
-- 🚀 CTO at Zrotax – a startup on financial & tax planning
+- 🧠 I love exploring AI, ML, Web3 and building tech products
+- 🚀 CTO at zrotax.com – a startup on financial & tax planning
 - 🎯 Currently focused on AR/VR in Education and Embedded Projects using STM32
 
 ## 🛠️ Skills
