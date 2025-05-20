@@ -64,5 +64,6 @@ Embedded systems using **STM32** and real-world **IoT** applications.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT39D1kui3P6aq3ioU/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
 </p>
+
