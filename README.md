@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Bhavik Bafna  
 **A passionate developer, tech enthusiast, and budding entrepreneur from India 🇮🇳**
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9urx7ZtKH2It6w/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
+
 
 ---
 
