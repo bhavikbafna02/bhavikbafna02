@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 **3rd-year engineering student** at **RV College of Engineering**  
+- 🎓 **4th-year engineering student** at **RV College of Engineering**  
 - 🧠 Exploring **AI**, **ML**, **Web3**, and **building tech products**  
 - 🚀 **CTO at [Zrotax](https://zrotax.com)** – a startup focused on **financial & tax planning**  
 - 🎯 Passionate about **AR/VR in Education** and **Embedded Projects using STM32**
